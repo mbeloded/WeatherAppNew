@@ -15,6 +15,8 @@ Just clone and run `pod init` from the project folder.
 
 Hi, my name is Michael Bielodied, here is my linkedIn page: https://www.linkedin.com/in/michael-beloded-2979313/
 
+I'm working as iOS dev. since 2014, but also I have Android/Java background.
+
 Project is not containing tests, due to lack of time, but I'll add them soon.
 
 ## Contribution
